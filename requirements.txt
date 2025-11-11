@@ -1,0 +1,6 @@
+# Core dependencies for the Travel Agent project
+google-adk            # Google Agent Development Kit (for agents & tools)
+geopy                 # Geocoding (Nominatim) for location lookup
+requests              # HTTP requests to Overpass API
+uv                    # For running ADK web server (uv run adk web)
+python-dotenv         # Optional: for managing environment variables
